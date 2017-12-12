@@ -1,0 +1,59 @@
+c:\users\student\documents\visual studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\Intel.BikeRental.DAL.dll.config
+c:\users\student\documents\visual studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\Intel.BikeRental.DAL.dll
+c:\users\student\documents\visual studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\Intel.BikeRental.DAL.pdb
+c:\users\student\documents\visual studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\EntityFramework.dll
+c:\users\student\documents\visual studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\student\documents\visual studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\Intel.BikeRental.Models.dll
+c:\users\student\documents\visual studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\Intel.BikeRental.Models.pdb
+c:\users\student\documents\visual studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\EntityFramework.xml
+c:\users\student\documents\visual studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\student\documents\visual studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.dll
+c:\users\student\documents\visual studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.Migrations.InitialCreate.resources
+C:\Users\student\Documents\Visual Studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.csproj.GenerateResource.Cache
+C:\Users\student\documents\visual studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.Migrations.LoggedInProperty.resources
+C:\Users\student\documents\visual studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.Migrations.ParametersAddedToUser.resources
+C:\Users\student\documents\visual studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.Migrations.RemoveMyProperty.resources
+C:\Users\student\documents\visual studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.Migrations.RowVersionAdded.resources
+C:\Users\student\documents\visual studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.Migrations.AddStorageProcedureToStation.resources
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\Intel.BikeRental.DAL.dll.config
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\Intel.BikeRental.DAL.dll
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\Intel.BikeRental.DAL.pdb
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\Intel.BikeRental.Models.dll
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\Intel.BikeRental.Models.pdb
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.Migrations.InitialCreate.resources
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.Migrations.LoggedInProperty.resources
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.Migrations.ParametersAddedToUser.resources
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.Migrations.RemoveMyProperty.resources
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.Migrations.RowVersionAdded.resources
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.Migrations.AddStorageProcedureToStation.resources
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.csproj.GenerateResource.Cache
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.dll
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.pdb
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\Intel.BikeRental.DAL.dll.config
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\Intel.BikeRental.DAL.dll
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\Intel.BikeRental.DAL.pdb
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\Intel.BikeRental.Models.dll
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\Intel.BikeRental.Models.pdb
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\Intel.BikeRental.Models.dll.config
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.Migrations.InitialCreate.resources
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.Migrations.LoggedInProperty.resources
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.Migrations.ParametersAddedToUser.resources
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.Migrations.RemoveMyProperty.resources
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.Migrations.RowVersionAdded.resources
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.Migrations.AddStorageProcedureToStation.resources
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.csproj.GenerateResource.Cache
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.dll
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.DAL\obj\Debug\Intel.BikeRental.DAL.pdb

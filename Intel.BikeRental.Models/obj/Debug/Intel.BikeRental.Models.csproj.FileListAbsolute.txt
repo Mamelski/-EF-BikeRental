@@ -1,0 +1,19 @@
+c:\users\student\documents\visual studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.Models\bin\Debug\Intel.BikeRental.Models.dll
+c:\users\student\documents\visual studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.Models\bin\Debug\Intel.BikeRental.Models.pdb
+c:\users\student\documents\visual studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.Models\obj\Debug\Intel.BikeRental.Models.dll
+c:\users\student\documents\visual studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.Models\obj\Debug\Intel.BikeRental.Models.pdb
+c:\users\student\documents\visual studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.Models\bin\Debug\Intel.BikeRental.Models.dll.config
+C:\Users\student\documents\visual studio 2015\Projects\Intel.BikeRental\Intel.BikeRental.Models\obj\Debug\Intel.BikeRental.Models.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.Models\bin\Debug\Intel.BikeRental.Models.dll.config
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.Models\bin\Debug\Intel.BikeRental.Models.dll
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.Models\bin\Debug\Intel.BikeRental.Models.pdb
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.Models\obj\Debug\Intel.BikeRental.Models.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.Models\obj\Debug\Intel.BikeRental.Models.dll
+C:\Users\Jakub\Desktop\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.Models\obj\Debug\Intel.BikeRental.Models.pdb
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.Models\bin\Debug\Intel.BikeRental.Models.dll.config
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.Models\bin\Debug\Intel.BikeRental.Models.dll
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.Models\bin\Debug\Intel.BikeRental.Models.pdb
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.Models\obj\Debug\Intel.BikeRental.Models.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.Models\obj\Debug\Intel.BikeRental.Models.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.Models\obj\Debug\Intel.BikeRental.Models.dll
+C:\Users\Jakub\Documents\GitHub\Lukasz Kep\Intel.BikeRental\Intel.BikeRental.Models\obj\Debug\Intel.BikeRental.Models.pdb
